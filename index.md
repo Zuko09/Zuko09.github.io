@@ -11,9 +11,9 @@ I develop novel machine learning techniques to study longitudinal time-series in
 
 I received my Bachelor's in Computer Science from the [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/). As an undergraduate researcher, I was advised by [Shwetak Patel](https://homes.cs.washington.edu/~shwetak/) for 3 years as part of the [Ubicomp Lab](https://ubicomplab.cs.washington.edu/). My senior research thesis was on "Using Confidence in Smartphone Spirometry".
 
-I've interned with the [Uber Elevate](https://www.uber.com/us/en/elevate/) (Summer 2017). I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. 
+I've also interned with the [Uber Elevate](https://www.uber.com/us/en/elevate/) (Summer 2017). I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. 
 
-[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=IOIy_EsAAAAJ&hl=en&oi=ao), 
+[CV / Resume]({{ site.url }}/assets/cv_varun.pdf), [Google Scholar](https://scholar.google.com/citations?user=IOIy_EsAAAAJ&hl=en&oi=ao), 
 Email ID: [vkviswan@ucsd.edu](mailto:vkviswan@ucsd.edu)  
 
 #### Updates
