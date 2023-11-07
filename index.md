@@ -5,14 +5,16 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
 
-My name is Kalpesh Krishna, and I am a Research Scientist at Google in the [Bard team](https://bard.google.com/). I recently received my PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) in the [UMass NLP](http://nlp.cs.umass.edu/) lab. My research at UMass was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
+My name is Varun Viswanath, and I am a 5th year PhD student at the University of California, San Diego working in the [DigiHealth lab](https://digihealth.ucsd.edu/) lead by [Edward Wang](https://www.ejaywang.com/) and in the [Smarr Lab](https://smarr.eng.ucsd.edu/) led by [Benjamin Smarr](https://smarr.eng.ucsd.edu/lab-members). 
 
-I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've done some fun internships at [AI2](https://allenai.org/) (Summer 2022), [Google Research](https://research.google) (Summer 2019 - Spring 2022), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
+I develop novel machine learning techniques to study longitudinal time-series in real-world health contexts. Currently, I am using a dataset of 60,000 real-world wearable device users to explore methods discovering longitudinal structures when detecting anomalies in wearable time series. I have broad experience in across ubiquitous computing, design research, deep learning, computer science, and bioengineering. In the future, I hope to further explore how deep learning and other statistical methods can augment wearable and ubiquitous technology to improve peoples’ health and lifestyle.
 
-I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences.
+I received my Bachelor's in Computer Science from the [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/). As an undergraduate researcher, I was advised by [Shwetak Patel](https://homes.cs.washington.edu/~shwetak/) for 3 years as part of the [Ubicomp Lab](https://ubicomplab.cs.washington.edu/). My senior research thesis was on "Using Confidence in Smartphone Spirometry".
 
-[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Kalpesh-Krishna/26161085)  
-Email ID: [kalpeshk2011@gmail.com](mailto:kalpeshk2011@gmail.com)  
+I've interned with the [Uber Elevate](https://www.uber.com/us/en/elevate/) (Summer 2017). I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. 
+
+[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=IOIy_EsAAAAJ&hl=en&oi=ao), 
+Email ID: [vkviswan@ucsd.edu](mailto:vkviswan@ucsd.edu)  
 
 #### Updates
 
