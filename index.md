@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/pp_varunkumarviswanath.jpg">
 
 My name is Varun Viswanath, and I am a 5th year PhD student at the University of California, San Diego working in the [DigiHealth lab](https://digihealth.ucsd.edu/) lead by [Edward Wang](https://www.ejaywang.com/) and in the [Smarr Lab](https://smarr.eng.ucsd.edu/) led by [Benjamin Smarr](https://smarr.eng.ucsd.edu/lab-members). 
 
