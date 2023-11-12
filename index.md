@@ -11,6 +11,9 @@ My research focuses on how <a style="color:#4b2e83"><b>deep learning</b></a> can
 
 Specifically, I've explored how wearable device data can predict the onset of illnesses like [COVID-19](https://www.nature.com/articles/s41598-022-07314-0) and how [biases](https://openreview.net/forum?id=W0pLyiSuSSa) can challenge such illness detection tasks. I've recently been studying sleep phenotypes and diabetes in the context of wearable health data, as well as how large cohort wearable datasets (N>60,000) can be leveraged to improve health algorithms. I previously explored how smartphones can predict [lung condition (smartphone spirometry)](https://pubmed.ncbi.nlm.nih.gov/30441582/) and [blood oxygen percentage (smartphone oximetry)](https://www.nature.com/articles/s41746-022-00665-y). In the future, I hope to further explore how deep learning and other statistical methods can augment wearable and ubiquitous technology to improve peoples’ health and lifestyle.
 
+<a style="color:#4b2e83"><b>I plan to defend and graduate near the end of this academic year and will be looking for full time positions in industry or as a post-doc starting March.</b></a>
+
+
 I received my Bachelor's in Computer Science from the [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/). As an undergraduate researcher, I was advised by [Shwetak Patel](https://homes.cs.washington.edu/~shwetak/) for 3 years as part of the [Ubicomp Lab](https://ubicomplab.cs.washington.edu/). My senior research thesis was on "Using Confidence in Smartphone Spirometry". I've also interned with the [Uber Elevate](https://www.uber.com/us/en/elevate/) (Summer 2017). I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. 
 
 [CV / Resume]({{ site.url }}/assets/cv_varun.pdf), [Google Scholar](https://scholar.google.com/citations?user=IOIy_EsAAAAJ&hl=en&oi=ao), 
