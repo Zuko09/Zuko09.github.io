@@ -19,3 +19,13 @@ As the Student Volunteer Co-chair of the [Ubicomp 2023](https://www.ubicomp.org/
 
 <b> Hobbies </b>
 I'm also a long time chess player, who used to run the University of Washington chess club and force everyone around him to play bughouse. I love to read and journal. During my time in San Diego, I've become a dedicated boxer and I dabble in other combat sports.
+
+
+<b> Photo Gallery </b>
+
+<img src="assets/varun_chess_neworleans">
+
+<img src="assets/varun_boxing_gabe_maxwells">
+
+
+
