@@ -13,7 +13,7 @@ I am broadly interested in wearable health data analysis and deep learning in ub
 * [Variability of temperature measurements recorded by a wearable device by biological sex](https://bsd.biomedcentral.com/articles/10.1186/s13293-023-00558-z)  
 Lauryn Keeler Bruce, Patrick Kasl, Severine Soltani, <i>Varun K. Viswanath<i>, Wendy Hartogensis, Stephan Dilchert, Frederick M. Hecht, Anoushka Chowdhary, Claudine Anglo, Leena Pandya, Subhasis Dasgupta, Ilkay Altintas, Amarnath Gupta, Ashley E. Mason & Benjamin L. Smarr
 **Biology of Sex Differences** 
-[News Article](https://today.ucsd.edu/story/women-produce-skin-temperature-data-that-is-just-as-predictable-as-men)
+[Washington Post](https://www.washingtonpost.com/wellness/2023/11/18/women-body-temperature-medical-research/)[UCSD News](https://today.ucsd.edu/story/women-produce-skin-temperature-data-that-is-just-as-predictable-as-men)
 
 
 * [Detecting Periodic Biases in Wearable-Based Illness Detection Models](https://openreview.net/forum?id=W0pLyiSuSSa)  

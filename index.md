@@ -28,6 +28,11 @@ Email ID: [vkviswan@ucsd.edu](mailto:vkviswan@ucsd.edu)
 
   <tr>
     <td><b>Sept 2022:</b></td>
+    <td> Washington Post writes article <i><a href='https://www.washingtonpost.com/wellness/2023/11/18/women-body-temperature-medical-research/'>Study undercuts premise for excluding women from medical research</a></i> on our prior work<i>Variability of temperature measurements recorded by a wearable device by biological sex</i></td>
+  </tr>
+
+  <tr>
+    <td><b>Sept 2022:</b></td>
     <td>Published <i>Variability of temperature measurements recorded by a wearable device by biological sex</i> in the <b>Biology of Sex Differences Journal</b> with Lauryn Bruce. </td>
   </tr>
 
