@@ -23,9 +23,10 @@ I'm also a long time chess player, who used to run the University of Washington 
 
 <b> Photo Gallery </b>
 
-<img src="assets/varun_chess_neworleans">
 
-<img src="assets/varun_boxing_gabe_maxwells">
+<img style="float: center; width: 65%; padding: 6px;" src=" {{ site.url }}/assets/varun_chess_neworleans.JPG">
+
+<img style="float: center; width: 65%; padding: 6px;" src=" {{ site.url }}/assets/varun_boxing_gabe_maxwells.JPG">
 
 
 
