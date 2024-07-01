@@ -18,13 +18,13 @@ I am broadly interested in wearable health data analysis and deep learning in ub
 
 * [A cross-study analysis of wearable datasets and the generalizability of acute illness monitoring model](https://chilconference.org/proceeding_P097.html)  
 Patrick Kasl, Severine Soltani, Lauryn Keeler Bruce, <i>Varun K. Viswanath</i>, Wendy Hartogensis, Amarnath Gupta, Ilkay Altintas, Stephan Dilchert, Frederick M. Hecht, Ashley Mason, Benjamin L. Smarr   
-**Conference on Health, Inference, and Learning (CHIL) 2024**  
+**Conference on Health, Inference, and Learning (CHIL) 2024** (<a style="color:red"><i>Best Paper Award</i></a>)  
 [Github](https://github.com/chil-submission/wearable_generalizability) 
 
 
 * [Augmenting Tele-Postpartum Care with Vision-Based Detection of Breastfeeding-related Conditions: Algorithm Development and Validation](https://ai.jmir.org/2024/1/e54798)  
 Jessica de Souza, *Varun Viswanath*, Jessica Maria Echterhoff, Kristina Chamberlain, Edward Jay Wang   
-**Biology of Sex Differences**   
+**Journal of Medical Internet Research (JMIR) AI**   
 
 
 * [Variability of temperature measurements recorded by a wearable device by biological sex](https://bsd.biomedcentral.com/articles/10.1186/s13293-023-00558-z)  
@@ -35,7 +35,7 @@ Lauryn Keeler Bruce, Patrick Kasl, Severine Soltani, <i>Varun K. Viswanath</i>, 
 
 * [Detecting Periodic Biases in Wearable-Based Illness Detection Models](https://openreview.net/forum?id=W0pLyiSuSSa)  
 Amit Klein, *Varun Kumar Viswanath*, Benjamin Smarr, Edward Jay Wang   
-**ICML 2023 Time-Series Representation Learning for Health**  (<a style="color:red"><i>Selected for Oral Presentation</i></a>) 
+**ICML 2023 Time-Series Representation Learning for Health (TSRL4H)**  (<a style="color:red"><i>Selected for Oral Presentation</i></a>) 
 
 
 * [Smartphone Camera Oximetry in an Induced Hypoxemia Study](https://www.nature.com/articles/s41746-022-00665-y)
