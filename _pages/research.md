@@ -13,7 +13,7 @@ I am broadly interested in wearable health data analysis and deep learning in ub
 * [Five Million Night: Temporal Dynamics of Human Sleep Phenotypes](https://www.nature.com/articles/s41746-024-01125-5)  
 <i>Varun K. Viswanath</i>, Wendy Hartogenesis, Stephan Dilchert, Leena Pandya, Frederick M. Hecht, Ashley E. Mason, Edward J. Wang & Benjamin L. Smarr  
 **Nature Publishing Journals | digital medicine**  
-[UCSD News](https://today.ucsd.edu/story/how-your-sleep-patterns-change-can-tell-you-about-your-health), [News Medical](https://www.news-medical.net/news/20240625/Wearable-devices-show-how-sleep-patterns-change-with-health-conditions.aspx)
+[KPBS](https://www.kpbs.org/news/science-technology/2024/06/28/study-reveals-five-types-of-sleep-and-their-possible-health-outcomes) | [San Diego Tribune](https://www.sandiegouniontribune.com/2024/07/09/ucsd-researchers-map-the-landscape-of-sleep/) | [UCSD News](https://today.ucsd.edu/story/how-your-sleep-patterns-change-can-tell-you-about-your-health)
 
 
 * [A cross-study analysis of wearable datasets and the generalizability of acute illness monitoring model](https://chilconference.org/proceeding_P097.html)  
@@ -30,7 +30,7 @@ Jessica de Souza, *Varun Viswanath*, Jessica Maria Echterhoff, Kristina Chamberl
 * [Variability of temperature measurements recorded by a wearable device by biological sex](https://bsd.biomedcentral.com/articles/10.1186/s13293-023-00558-z)  
 Lauryn Keeler Bruce, Patrick Kasl, Severine Soltani, <i>Varun K. Viswanath</i>, Wendy Hartogensis, Stephan Dilchert, Frederick M. Hecht, Anoushka Chowdhary, Claudine Anglo, Leena Pandya, Subhasis Dasgupta, Ilkay Altintas, Amarnath Gupta, Ashley E. Mason & Benjamin L. Smarr   
 **Biology of Sex Differences**   
-[Washington Post](https://www.washingtonpost.com/wellness/2023/11/18/women-body-temperature-medical-research/), [UCSD News](https://today.ucsd.edu/story/women-produce-skin-temperature-data-that-is-just-as-predictable-as-men)
+[Washington Post](https://www.washingtonpost.com/wellness/2023/11/18/women-body-temperature-medical-research/) | [UCSD News](https://today.ucsd.edu/story/women-produce-skin-temperature-data-that-is-just-as-predictable-as-men)
 
 
 * [Detecting Periodic Biases in Wearable-Based Illness Detection Models](https://openreview.net/forum?id=W0pLyiSuSSa)  
@@ -41,13 +41,13 @@ Amit Klein, *Varun Kumar Viswanath*, Benjamin Smarr, Edward Jay Wang
 * [Smartphone Camera Oximetry in an Induced Hypoxemia Study](https://www.nature.com/articles/s41746-022-00665-y)
 <i>Varun K. Viswanath\*</i>, Jason S. Hoffman\*, Caiwei Tian, Xinyi Ding, Matthew J. Thompson, Eric C. Larson, Shwetak N. Patel & Edward J. Wang  
 **Nature Publishing Journals | digital medicine**  
-[SD Tribune](https://www.sandiegouniontribune.com/business/story/2022-09-20/new-research-shows-you-might-be-able-to-measure-your-blood-oxygen-levels-with-a-smartphone-camera), [UCSD News](https://today.ucsd.edu/story/a-smartphones-camera-and-flash-could-help-people-measure-blood-oxygen-levels-at-home)
+[SD Tribune](https://www.sandiegouniontribune.com/business/story/2022-09-20/new-research-shows-you-might-be-able-to-measure-your-blood-oxygen-levels-with-a-smartphone-camera) | [UCSD News](https://today.ucsd.edu/story/a-smartphones-camera-and-flash-could-help-people-measure-blood-oxygen-levels-at-home)
 
 
 * [Detection of COVID-19 using multimodal data from a wearable device: results from the first TemPredict Study](https://www.nature.com/articles/s41598-022-07314-0)  
 Ashley E. Mason, Frederick M. Hecht, Shakti K. Davis, Joseph L. Natale, Wendy Hartogensis, Natalie Damaso, Kajal T. Claypool, Stephan Dilchert, Subhasis Dasgupta, Shweta Purawat, *Varun K. Viswanath*, Amit Klein, Anoushka Chowdhary, Sarah M. Fisher, Claudine Anglo, Karena Y. Puldon, Danou Veasna, Jenifer G. Prather, Leena S. Pandya, Lindsey M. Fox, Michael Busch, Casey Giordano, Brittany K. Mercado, Jining Song, …, Benjamin L. Smarr   
 **Scientific Reports**   
-[StatNews](https://www.statnews.com/2020/03/26/wearables-health-workers-coronavirus/), [UCSF News](https://www.ucsf.edu/news/2020/12/419271/wearable-sensor-may-signal-youre-developing-covid-19-even-if-your-symptoms-are#:~:text=Smart%20Ring%20May%20Flag%20Early%20Illnesses%2C%20UCSF%2DUCSD%20Study%20Shows&text=A%20smart%20ring%20that%20generates,when%20infection%20is%20not%20suspected.)
+[StatNews](https://www.statnews.com/2020/03/26/wearables-health-workers-coronavirus/) | [UCSF News](https://www.ucsf.edu/news/2020/12/419271/wearable-sensor-may-signal-youre-developing-covid-19-even-if-your-symptoms-are#:~:text=Smart%20Ring%20May%20Flag%20Early%20Illnesses%2C%20UCSF%2DUCSD%20Study%20Shows&text=A%20smart%20ring%20that%20generates,when%20infection%20is%20not%20suspected.)
 
 
 ### Other Works
